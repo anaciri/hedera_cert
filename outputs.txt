@@ -1,0 +1,67 @@
+* NEXT RESULTS
+** crete account task
+  Account1:
+  Account ID: 0.0.3506856
+  Public key: 302a300506032b657003210088d96ac328e10976f54b4d222402be40b10e83902eb11157965374b96f8edf6f
+  Private key: 302e020100300506032b657004220420224d9454b036a60163e97bc31cca05b905658aea97d0506df7aa15917eb079fd
+
+Account2:
+  Account ID: 0.0.3506857
+  Public key: 302a300506032b6570032100456adfa85590e6c4b2a4d6859614d10260a2c2dbe446282736d07a54bc571e1c
+  Private key: 302e020100300506032b65700422042020ff6e6bc9bf1102a90d28711148b091b1272f16b514fe24ea7db8afbe136f1d
+
+tx_tmplt.js:44
+Account3:
+tx_tmplt.js:41
+  Account ID: 0.0.3506858
+tx_tmplt.js:42
+  Public key: 302a300506032b657003210034646af83b020015a8c5d63fb49fa40a897698703a06e9e75be46f85abd44d18
+tx_tmplt.js:43
+  Private key: 302e020100300506032b657004220420c6ab59e90c44d63b81c37d8663fe0897fb2221fd57f5aee3188c153be2852e14
+
+tx_tmplt.js:44
+Account4:
+tx_tmplt.js:41
+  Account ID: 0.0.3506859
+tx_tmplt.js:42
+  Public key: 302a300506032b6570032100212a7b3808b62210faccaf242f5ca446681a61dd85b9d2b95ba387b8678111fe
+tx_tmplt.js:43
+  Private key: 302e020100300506032b657004220420d8f8a5d323ba985700adf4101c3d3c523e315358272713f3ea0abcc6c9c1066d
+
+tx_tmplt.js:44
+Account5:
+tx_tmplt.js:41
+  Account ID: 0.0.3506860
+tx_tmplt.js:42
+  Public key: 302a300506032b6570032100a21cff4777e53c877c0fdc03d88141ca12c8db9aa26bcadc8410f3226c0281e5
+tx_tmplt.js:43
+  Private key: 302e020100300506032b65700422042004a8902f5907e6767cfbcc0f0577668708c8874030acfa9e77132a4e8c0cc034
+
+
+
+
+
+** NFT create token
+    Created NFT with Token ID: 0.0.3508038 
+
+tx_tmplt.js:60
+- User balance: 0 units of token ID 0.0.3508038
+
+** smartcontract service task
+   The smart contract byte code file ID is 0.0.3507592
+
+The smart contract ID is 0.0.3507593
+
+The transaction status is SUCCESS
+
+The result of function1 is 12
+
+The transaction status is SUCCESS
+
+The result of function2 is 14
+** Timestamp
+   Created a new TopicCreateTransaction with admin and submit key both set to: 302a300506032b657003210088d96ac328e10976f54b4d222402be40b10e83902eb11157965374b96f8edf6f
+tx_tmplt.js:26
+Your topic ID is: 0.0.3508052
+tx_tmplt.js:32
+The message transaction status: SUCCESS
